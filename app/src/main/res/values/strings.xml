@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">Resume &amp; CV Maker</string>
+
+    <string name="gender_prompt">Select Gender</string>
+    <string-array name="gender_array">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+    <string-array name="english_permission_rational_dialog">
+        <item>Files and Media Permission</item>
+        <item>In order to save file in your mobile storage, we need files and media permission. Please go to app settings and grant the permission.</item>
+        <item>Go to app settings</item>
+        <item>Close</item>
+    </string-array>
+    <string-array name="maritalstatus">
+        <item>Married</item>
+        <item>UnMarried</item>
+        <item>Others</item>
+    </string-array>
+
+    <string name="no_items_text">Nothing here.\nTap the add button!</string>
+    <string name="createResumeTitle">Personal Detail</string>
+    <string name="resumeName">Resume Name</string>
+    <string name="personalName">Name</string>
+    <string name="personalPhone">Phone</string>
+    <string name="personalEmail">Email Address</string>
+    <string name="personalCurrentCity">Current City</string>
+    <string name="personalDescription">Description</string>
+    <string name="personalSkills">Skills</string>
+    <string name="personalHobbies">Hobbies</string>
+    <string name="saveButtonText">Save</string>
+    <string name="educationInstituteName">Institute Name</string>
+    <string name="educationDegree">Degree</string>
+    <string name="educationYearOfGraduation">Year</string>
+    <string name="educationPerformance">Grade A,B,C</string>
+    <string name="saveButtonSaved">Saved</string>
+    <string name="experienceCompanyName">Company</string>
+    <string name="experienceJobTitle">Job Title</string>
+    <string name="experienceDuration">Duration</string>
+    <string name="projectName">Name</string>
+    <string name="projectRole">Role</string>
+    <string name="projectLink">Link (optional)</string>
+    <string name="projectDescription">Description</string>
+    <string name="phoneHelperText">Should be 10 digits</string>
+    <string name="skillsHelperText">E.g: Graphic Designing, Animation</string>
+    <string name="hobbiesHelperText">E.g: Running, Swimming</string>
+    <string name="resumeNameHelperText">Give this resume a fun name!</string>
+    <string name="deleteButtonText">Delete</string>
+    <string name="done">Done</string>
+    <string name="print">Print</string>
+    <string name="aboutUsText">This project is completely open source.
+This app was created with first year engineering students as its target audience.
+You should check out Standard Resume if you need something more professional.</string>
+    <string name="descriptionHelperText">Tell us about you!</string>
+    <string name="instituteNameHelperText">Name of the school or college</string>
+    <string name="qualificationHelperText">Your degree, branch, or class from this institute</string>
+    <string name="performanceHelperText">GPA, percentage, or grade</string>
+    <string name="educationYearHelperText">Year of graduation</string>
+    <string name="companyNameHelperText">Name of the company where you worked</string>
+    <string name="jobTitleHelperText">Eg. Backend Web Developer</string>
+    <string name="experienceDurationHelperText">Time period of this job</string>
+    <string name="projectNameHelperText">Name of the project</string>
+    <string name="projectRoleHelperText">Your role in the project</string>
+    <string name="projectLinkHelperText">A website for the project</string>
+    <string name="projectDescriptionHelperText">Describe the project</string>
+    <string name="editButtonText">Edit</string>
+    <string name="about">About</string>
+    <string name="preview">Preview</string>
+    <string name="created_by_kshitij_chauhan">Created by Kshitij Chauhan</string>
+    <string name="app_repository">App Repository</string>
+    <string name="dev_profile">Dev Profile</string>
+    <string name="standard_resume">Standard Resume</string>
+    <string name="rate_the_app">Rate the app</string>
+</resources>
